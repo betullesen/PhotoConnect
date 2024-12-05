@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467323300752",
+    "project_id": "photoconnect-24390",
+    "storage_bucket": "photoconnect-24390.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467323300752:android:cfba7436b2901994116115",
+        "android_client_info": {
+          "package_name": "com.betulesen.photoconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZrCcyGpqgyT1ZhJxxLU9y_Mv8y-wegvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
