@@ -1,4 +1,6 @@
+
 # Photo Sharing App
+------------
 
 PhotoConnect is a mobile application where users can share photos, log in using email, and manage their posts. Users can upload images, add descriptions, and view the posts of other users. User authentication, data storage, and image uploading processes are handled using Firebase infrastructure.
 
